@@ -1,0 +1,24 @@
+Sample Test Cases
+
+1. Student Login
+   - Valid: Enter "MRU2024000123" (Nambasa Moreen)
+   - Invalid: Enter "m2024 etc" (should show "Student not found")
+
+2. Course Registration
+   - Register for "ICT1201D" (should succeed)
+   - Try registering again (should fail with "already registered")
+   - Register for 6 courses to test maximum load
+
+3. Course Dropping
+   - Drop a registered course (should succeed)
+   - Try dropping a non-registered course (should fail)
+   - Use undo drop feature
+
+4. Waitlist Testing
+   - Register for 6 courses to reach maximum
+   - Try registering for a 7th course (should go to waitlist)
+   - Drop a course and verify waitlist student is enrolled
+
+5. Course History
+   - View Nambas Moreen's history (preloaded with 2 courses)
+   - Add a new course to history and verify it appears
