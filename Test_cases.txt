@@ -20,5 +20,5 @@ Sample Test Cases
    - Drop a course and verify waitlist student is enrolled
 
 5. Course History
-   - View Nambas Moreen's history (preloaded with 2 courses)
+   - View Nambasa Moreen's history (preloaded with 2 courses)
    - Add a new course to history and verify it appears
