@@ -405,7 +405,7 @@ private:
         // Add some sample students
         students.push_back(Student("MRU2024000123", "Nambasa Moreen"));
         students.push_back(Student("MRU2024000920", "Lutaaya Rodyne"));
-        students.push_back(Student("MRU2025000045", "Ahimbisiimbwe Tracy"));
+        students.push_back(Student("MRU20240001799", "Ahimbisimbwe Tracy Prize"));
         
         // Add some historical data for testing
         Student* s = findStudent("MRU2024000123");
